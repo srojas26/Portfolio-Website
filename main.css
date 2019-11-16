@@ -67,8 +67,7 @@ p {
 .about {
   max-width: 1400px;
   margin: auto;
-  background: #15cda8;
-  color: #fff;
+  color: #333;
   padding: 1rem 3rem;
   text-align: center;
 }
