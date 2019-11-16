@@ -60,7 +60,7 @@ p {
 .btn:hover {
   background: linear-gradient(25deg, #9fd3c7, #42dee1);
   color: #fff;
-  transition: 1750ms;
+  transition: 2000ms;
   border: none;
 }
 
