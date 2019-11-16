@@ -58,7 +58,7 @@ p {
 }
 
 .btn:hover {
-  background: linear-gradient(25deg, #9fd3c7, #15cda8);
+  background: linear-gradient(25deg, #9fd3c7, #42dee1);
   color: #fff;
   transition: 1750ms;
   border: none;
