@@ -33,7 +33,7 @@ h1 {
 
 h2 {
   font-size: 2rem;
-  color: #898989;
+  color: #fff;
 }
 
 p {
@@ -50,8 +50,8 @@ p {
   display: inline;
   padding: 10px 15px;
   border-radius: 6px;
-  color: #898989;
-  border: solid #15cda8 2px;
+  color: #fff;
+  border: solid #fff 2px;
   text-decoration: none;
   margin: 0 auto;
   text-align: center;
