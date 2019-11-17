@@ -135,17 +135,16 @@ opacity: 0.75;
   opacity: 1;
   color: #fff;
   border-radius: 50%;
-  background: #15cda8;
+  background: #42dee1;
   padding: 0.75rem;
 }
 
 .fa-star:hover {
-  color: ;
-  transition: 1750ms;
+  transition: 2000ms;
   transform: scale(1.05);
   background: #fff;
-  color: #15cda8;
-  border: solid #15cda8 2px;
+  color: #42dee1;
+  border: solid #42dee1 2px;
 }
 
 
