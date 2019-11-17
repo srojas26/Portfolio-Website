@@ -70,6 +70,7 @@ p {
 
 #main-nav ul li a:hover {
   color: #42DEE1;
+  transition: 1750ms;
 }
 
 li {
