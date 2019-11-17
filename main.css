@@ -130,6 +130,11 @@ padding: 6rem;
 opacity: 0.75;
 }
 
+.box:hover {
+  opacity: 0.3;
+   transition: .5s ease;
+}
+
 
 .fa-star {
   opacity: 1;
