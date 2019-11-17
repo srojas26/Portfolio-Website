@@ -140,7 +140,7 @@ opacity: 0.75;
 }
 
 .fa-star:hover {
-  transition: 2000ms;
+  transition: 2500ms;
   transform: scale(1.05);
   background: #fff;
   color: #42dee1;
