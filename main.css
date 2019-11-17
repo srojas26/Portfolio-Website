@@ -240,6 +240,10 @@ opacity: 0.75;
 }
 
 @media(max-width: 500px) {
+  
+ .llc-header {
+   font-size: 3rem;
+  }
 
   h1 {
     font-size: 2rem;
