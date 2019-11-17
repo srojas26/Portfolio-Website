@@ -127,11 +127,11 @@ a {
 
 .box {
 padding: 6rem;
-opacity: 0.4;
+opacity: 0.5;
 }
 
 .box:hover {
-  opacity: 0.75;
+  opacity: 0.85;
    transition: .5s ease;
 }
 
