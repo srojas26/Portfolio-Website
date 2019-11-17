@@ -69,8 +69,9 @@ p {
 }
 
 #main-nav ul li a:hover {
-  color: #42DEE1;
+  opacity: 0.5;
   transition: 1000ms;
+  
 }
 
 li {
@@ -150,7 +151,7 @@ opacity: 0.5;
   transform: scale(1.05);
   background: #fff;
   color: #f66767;
-  border: solid #42dee1 2px;
+  border: solid #f66767 2px;
 }
 
 
@@ -199,13 +200,13 @@ opacity: 0.5;
 }
 
 .contact-icon {
-  color: #fff;
+  color: #f66767;
   padding: 0.5rem;
 }
 
 .contact-icon:hover {
   transform: scale(1.25);
-  color: #f4f4f4;
+  opacity: 0.5;
   transition: 1750ms;
 }
 
