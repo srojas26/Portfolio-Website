@@ -49,7 +49,7 @@ p {
   z-index: 2;
 }
 
-#main-nav .container {
+#main-nav .bar {
   display: grid;
   grid-template-columns: 6fr 3fr 2fr;
   padding: 0.5rem;
