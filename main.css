@@ -5,8 +5,8 @@ body {
   padding: 0;
   box-sizing: border-box;
   font-family: 'Quicksand', sans-serif;
-  color: #fff;
-  background: linear-gradient(125deg, #82ACFF 20%, #42dee1 80%);
+  color: #d35656;
+  background: #fff;
 }
 
 .container {
@@ -17,7 +17,7 @@ body {
   padding: 0 3rem;
   text-align: center;
   height: 100vh;
-  background: #333 url('abstract.jpg') no-repeat center center/cover;
+  background: #333 url('redflowers.jpg') no-repeat center center/cover;
   overflow: hidden;
 }
 
@@ -44,7 +44,7 @@ p {
 
 /* Navigation */
 #main-nav {
-  background: #A5BDFD;
+  background: #f66767;
   position: sticky;
   top: 0;
   z-index: 2;
@@ -98,7 +98,7 @@ a {
 }
 
 .btn:hover {
-  background: linear-gradient(25deg, #9fd3c7, #42dee1);
+  background: linear-gradient(25deg, #f66767, #d35656);
   color: #fff;
   transition: 2000ms;
   border: none;
@@ -107,13 +107,13 @@ a {
 .llc-header {
   font-size: 6rem;
   margin: 3rem 0.5rem;
-  border-bottom: 3px solid #fff;
+  border-bottom: 3px solid #d35656;
 }
 
 .about {
   max-width: 960px;
   margin: 3rem auto;
-  color: #fff;
+  color: #d35656;
   padding: 1rem 3rem;
   text-align: center;
 }
@@ -141,7 +141,7 @@ opacity: 0.5;
   opacity: 1;
   color: #fff;
   border-radius: 50%;
-  background: #42dee1;
+  background: #f66767;
   padding: 0.75rem;
 }
 
@@ -149,7 +149,7 @@ opacity: 0.5;
   transition: 1000ms;
   transform: scale(1.05);
   background: #fff;
-  color: #42dee1;
+  color: #f66767;
   border: solid #42dee1 2px;
 }
 
@@ -215,7 +215,7 @@ opacity: 0.5;
   display: grid;
   grid-template-columns: 1fr;
   text-align: center;
-  background: #A5BDFD;
+  background: #f66767;
   color: #fff;
   padding: 3rem;
   margin: 0;
