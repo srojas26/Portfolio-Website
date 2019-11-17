@@ -54,7 +54,7 @@ p {
   display: grid;
   grid-template-columns: 6fr 3fr 2fr;
   padding: 0.5rem;
-  align-items: center;
+  align-items: right;
 }
 
 #main-nav ul {
