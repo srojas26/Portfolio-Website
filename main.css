@@ -239,7 +239,7 @@ opacity: 0.75;
 }
 }
 
-@media(max-width: 500px) {
+@media(max-width: 600px) {
   
  .llc-header {
    font-size: 3rem;
