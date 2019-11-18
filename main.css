@@ -119,17 +119,16 @@ a {
   display: grid;
   grid-template-columns: 1fr;
   margin: auto;
-  max-width: 960px;
+  max-width: 400px;
 }
 
 .photo-align {
+  display: block;
+  margin: auto;
   border-radius: 50%;
     width: 20%;
-  text-align: center;
-  padding-left: 50%;
 }
   
-
 .about {
   max-width: 960px;
   margin: 3rem auto;
