@@ -118,10 +118,14 @@ a {
 .photo {
   display: grid;
   grid-template-columns: 1fr;
+}
+
+.photo-align {
   border-radius: 50%;
     width: 20%;
   text-align: center;
 }
+  
 
 .about {
   max-width: 960px;
