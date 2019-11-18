@@ -116,7 +116,8 @@ a {
 }
 
 .photo {
-  display: block;
+  display: grid;
+  grid-template-columns: 1fr;
   border-radius: 50%;
     width: 20%;
   text-align: center;
