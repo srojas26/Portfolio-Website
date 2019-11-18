@@ -115,6 +115,12 @@ a {
   border-bottom: 3px solid #d35656;
 }
 
+.photo {
+  border-radius: 50%;
+    width: 20%;
+  text-align: center;
+}
+
 .about {
   max-width: 960px;
   margin: 3rem auto;
